@@ -1,6 +1,6 @@
 # cats-and-dogs-image-classification-in-CNN
 
-Description of the
+Description about the coding part.
 
 Imports: The code starts by importing the necessary Python libraries, including warnings, os, shutil, glob, numpy, matplotlib, pandas, TensorFlow, and Keras.
 
